@@ -10,9 +10,9 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     </p> 
     <p>🙏🏻 Welcome to my Github profile!<br/>
-        I am a <b> doctor &#128300 </b>  and <b> software developer </b> 🚀 from <b>Ankara, Turkey</b> <img
+        I am a <b> doctor &#128300 </b>  and <b> software developer </b> 🚀  from <b>Ankara, Turkey</b> <img
             src="https://www.flaticon.com/svg/static/icons/svg/551/551987.svg" width="14" /> <br />
-        I love building side projects 😍, and most of them are <b>Open source</b> </p>
+        I love building side projects 😍, and most of them are <b>Open Source</b> </p>
 
 </div>
 
@@ -33,7 +33,7 @@
                     width="16" /></li>
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:contact@aromalanil.me" target="_blank">a.fatihsamur@gmail.com</a></li>
+                <a href="mailto:a.fatihsamur@gmail.com" target="_blank">a.fatihsamur@gmail.com</a></li>
         </ul>
     </div>
     <div>
