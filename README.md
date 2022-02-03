@@ -20,7 +20,7 @@
         <ul>
             <li> 👨🏻‍💻 I'm currently working on my freelance Projects✍🏻</li>
             <li> 💬 Ask me about Laravel <img align="center"
-                    src="https://image.pngaaa.com/634/3353634-middle.png"
+                    src="https://brandslogos.com/wp-content/uploads/thumbs/laravel-logo-vector-1.svg"
                     width="16" />, Javascript <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296"
                     width="16" /></li>
