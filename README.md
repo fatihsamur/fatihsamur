@@ -7,7 +7,7 @@
     </p> 
     <p>🙏🏻 Welcome to my Github profile!<br/>
         I am a <b> doctor &#128300 </b>  and <b> software developer </b> 🚀  from <b>Ankara, Turkey</b> <img
-            src="https://www.flaticon.com/svg/static/icons/svg/551/551987.svg" width="14" /> <br />
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png" width="14" /> <br />
         I love building side projects 😍, and most of them are <b>Open Source</b> </p>
 
 </div>
