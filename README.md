@@ -22,7 +22,7 @@
             <li> 💬 Ask me about Laravel <img align="center"
                     src="https://brandslogos.com/wp-content/uploads/thumbs/laravel-logo-vector-1.svg"
                     width="16" />, PHP <img align="center"
-                    src="https://pngset.com/images/php-logo-elephant-php-logo-label-text-pillow-cushion-transparent-png-2880915.png"
+                    src="https://cdn.imgbin.com/12/2/24/imgbin-php-java-initiation-iy1tsmB5Am9syCfs69ixFA5R4.jpg"
                     width="16" /></li>           
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
