@@ -6,7 +6,7 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     </p> 
     <p>🙏🏻 Welcome to my Github profile!<br/>
-        I am a <b> doctor &#128300 </b>  and a <b> software developer </b> 🚀  
+        I am a <b> doctor &#128300 </b>  and a <b> software developer </b> 🚀  <br/>
         I love <b>open source development</b> and I build things on my Github profile.        
     </p>
 
