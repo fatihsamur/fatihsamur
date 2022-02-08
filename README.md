@@ -6,9 +6,9 @@
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     </p> 
     <p>🙏🏻 Welcome to my Github profile!<br/>
-        I am a <b> doctor &#128300 </b>  and <b> software developer </b> 🚀  from <b>Ankara, Turkey</b> <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png" width="14" /> <br />
-        I love building side projects 😍, and most of them are <b>Open Source</b> </p>
+        I am a <b> doctor &#128300 </b>  and a <b> software developer </b> 🚀  
+        I love <b>open source development</b> and I build things on my Github profile.        
+    </p>
 
 </div>
 
