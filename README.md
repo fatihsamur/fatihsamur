@@ -23,7 +23,8 @@
                     src="https://brandslogos.com/wp-content/uploads/thumbs/laravel-logo-vector-1.svg"
                     width="16" />, PHP <img align="center"
                     src="https://www.pngarts.com/files/6/PHP-Elephant-Logo-PNG-Photo.png"
-                    width="16" /></li>           
+                    width="16" />, Javascript <img align="center"
+                    src="https://pngset.com/images/library-of-javascript-icon-graphic-freeuse-files-logo-logo-javascript-icon-in-number-symbol-text-first-aid-transparent-png-1497709.png" width="16"  />, React <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="16"  /></li>           
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:a.fatihsamur@gmail.com" target="_blank">a.fatihsamur@gmail.com</a></li>
