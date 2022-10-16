@@ -2,7 +2,7 @@
     <h1>Hi, I'm <a href="#" target="_blank">Fatih</a> <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <p>       
-        <a href="mailto:a.fatihsamur@gmail.com" target="_blank"><img alt="Gmail"
+        <a href="mailto:asamur24@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
     </p> 
     <p>🙏🏻 Welcome to my Github profile!<br/>
