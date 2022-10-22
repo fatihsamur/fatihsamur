@@ -24,7 +24,7 @@
                     src="https://brandslogos.com/wp-content/uploads/thumbs/laravel-logo-vector-1.svg"
                     width="16" />, PHP <img align="center"
                     src="https://www.pngarts.com/files/6/PHP-Elephant-Logo-PNG-Photo.png"
-                    width="16" />, </li>           
+                    width="16" /> </li>           
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
                 <a href="mailto:a.fatihsamur@gmail.com" target="_blank">a.fatihsamur24@gmail.com</a></li>
