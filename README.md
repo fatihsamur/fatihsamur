@@ -27,7 +27,7 @@
                     width="16" />, </li>           
             <li>📫 How to reach me: <img align="center"
                     src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
-                <a href="mailto:a.fatihsamur24@gmail.com" target="_blank">a.fatihsamur24@gmail.com</a></li>
+                <a href="mailto:a.fatihsamur@gmail.com" target="_blank">a.fatihsamur24@gmail.com</a></li>
         </ul>
     </div>
    
